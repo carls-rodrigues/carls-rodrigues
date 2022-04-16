@@ -1,4 +1,4 @@
-## ¡Hi! I'm Carlos Rodrigues, a backend developer, passionate about technology and interested in impacting the world with technology. I'm focusing on the NodeJS ecosystem with Typescript, I like studying application design and architecture, and design patterns, I'm still new to the area, but I like the content like microservices, DDD, Hexagonal Architecture. I hope to share more of my evolution in this repository. 
+## ¡Hi! I'm Carlos Rodrigues, a backend developer, passionate about technology and interested in impacting the world with technology. I'm focusing on the NodeJS ecosystem with Typescript, I like studying application design and architecture, and design patterns, I'm still new to the area, but I like to study content like microservices, DDD, Hexagonal Architecture. I hope to share more of my evolution in this repository. 
 <div>
   <a href="https://github.com/carls-rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carls-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
