@@ -1,4 +1,4 @@
-## Olá! Eu sou o Carlos Rodrigues
+## Hi there! I'm Carlos Rodrigues, backend engineer
 <div>
   <a href="https://github.com/carls-rodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carls-rodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
